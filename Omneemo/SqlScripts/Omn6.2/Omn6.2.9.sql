@@ -1,0 +1,4 @@
+UPDATE Activity SET DueDate = GETDATE() 
+  WHERE StartDate = (DATEADD(day, -1, GETDATE())) 
+  AND DueDate != NULL 
+  AND StatusId != '4BDBB88F-58E6-DF11-971B-001D60E938C6';

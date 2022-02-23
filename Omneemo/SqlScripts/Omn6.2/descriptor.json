@@ -1,10 +1,10 @@
 ﻿{
   "SqlScript": {
-    "UId": "2ad5e796-ad05-7866-06ac-183b5cc751c8",
-    "Name": "Omn6.2.2",
+    "UId": "6ac7bdc6-07c4-3188-1527-377e3c945b0b",
+    "Name": "Omn6.2.9",
     "DBEngineType": 0,
     "InstallType": 1,
-    "ModifiedOnUtc": "\/Date(1645615803000)\/",
+    "ModifiedOnUtc": "\/Date(1645616829000)\/",
     "DependsOn": []
   }
 }
