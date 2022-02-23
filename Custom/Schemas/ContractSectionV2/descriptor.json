@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "e6d0e8a4-1cea-493f-aaa1-abcff89f9556",
+    "Name": "ContractSectionV2",
+    "ModifiedOnUtc": "\/Date(1645439768000)\/",
+    "Parent": {
+      "UId": "12c75b69-6f6f-462c-a00c-490fd3f1cd69",
+      "Name": "ContractSectionV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Page schema - \"Contracts\" section",
+    "DependsOn": []
+  }
+}

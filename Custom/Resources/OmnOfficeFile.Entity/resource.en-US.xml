@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Файл и ссылка объекта Офис" />
+			<Item Name="Columns.OmnOffice.Caption" Value="Офис" />
+		</Items>
+	</Group>
+</Resources>

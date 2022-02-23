@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9748a1f0-a26e-4566-a211-b182defe6a9d",
+    "Name": "OmnOffice1b9a3518Section",
+    "ModifiedOnUtc": "\/Date(1645428672000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Офис\"",
+    "DependsOn": []
+  }
+}

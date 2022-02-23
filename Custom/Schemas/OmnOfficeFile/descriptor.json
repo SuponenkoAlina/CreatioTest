@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b4494b73-5541-4859-8c58-3a90372e4261",
+    "Name": "OmnOfficeFile",
+    "ModifiedOnUtc": "\/Date(1645428681000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Офис",
+    "DependsOn": []
+  }
+}
