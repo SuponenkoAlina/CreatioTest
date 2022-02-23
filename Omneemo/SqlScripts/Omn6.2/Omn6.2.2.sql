@@ -1,0 +1,2 @@
+SELECT * FROM Document
+ORDER BY CreatedOn DESC
