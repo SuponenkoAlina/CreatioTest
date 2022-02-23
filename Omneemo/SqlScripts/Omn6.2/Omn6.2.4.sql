@@ -1,0 +1,1 @@
+UPDATE Contact set MobilePhone = '+375296487951'
