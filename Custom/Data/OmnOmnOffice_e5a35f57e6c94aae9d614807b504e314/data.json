@@ -1,0 +1,100 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9014ce03-73c4-46da-801d-dd684ccfa659"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1645426467825+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1645426467825+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "А1"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "576815b9-94da-1744-219a-a1b34d6fae5c",
+          "Value": "Минск"
+        },
+        {
+          "SchemaColumnUId": "dfa13684-6fa4-4065-988f-fc6761e9abd7",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a30470cf-47a4-4236-b2e6-a13c65c77d2d"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1645426474492+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1645426474492+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "А2"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "576815b9-94da-1744-219a-a1b34d6fae5c",
+          "Value": "Киев"
+        },
+        {
+          "SchemaColumnUId": "dfa13684-6fa4-4065-988f-fc6761e9abd7",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "84e9a82a-08a3-458a-8e1e-c5a154679bc9"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1645426482566+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1645426482566+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "А3"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "576815b9-94da-1744-219a-a1b34d6fae5c",
+          "Value": "Варшава"
+        },
+        {
+          "SchemaColumnUId": "dfa13684-6fa4-4065-988f-fc6761e9abd7",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}
